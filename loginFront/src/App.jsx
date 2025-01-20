@@ -9,7 +9,6 @@ function App() {
 
   const handleSignInClick = () => {
     setIsRightPanelActive(false);
-	console.log("hhh")
   };
 
   return (
